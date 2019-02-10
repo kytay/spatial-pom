@@ -1,0 +1,2 @@
+This folder is purposely left empty as intended.
+Maven is configured to download osm map file on compile phase.
